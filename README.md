@@ -15,6 +15,8 @@ I implement the formula above with my handcrafted inverse function (used LU deco
 ### Inverse Matrix:
 ![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.27.07.png)
 # Logistic Regression Implementation (handcrafted)
+Both L2-norm and cross entropy will do gradient descent to find the optimal result
+Below is the reference function
 ![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.27.34.png)
 
 ![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.27.42.png)
