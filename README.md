@@ -20,8 +20,9 @@ Below is the reference function
 ![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.27.34.png)
 
 ![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.27.42.png)
-![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.24.png)
 ![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.35.56.png)
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.24.png)
+
 
 ## The steps of logistic regression:
 i. We have some (x,y) points, we might make it become a vector like [x,y,1]. 
