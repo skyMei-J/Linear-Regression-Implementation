@@ -10,6 +10,6 @@ find the best fitting line on the data with the matrix operations which are writ
 For example, if the number of polynomial bases is 3, then we are going to find
 the curve that fits the data points by ax2 + bx1 + cx0 = y
 
-3. Function Requirement
+
 
 I implement the formula above with my handcrafted inverse function (used LU decomposition) to find the inverse matrix and plot the result including points and the fitting line.
