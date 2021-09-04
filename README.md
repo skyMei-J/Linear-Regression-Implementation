@@ -23,7 +23,7 @@ Below is the reference function
 ![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.24.png)
 
 ## The steps of logistic regression:
-i. You got the data points, which is x in our formula, for example, we have some (x,y) points, we might make it become a vector like [x,y,1]. 
+i. We have some (x,y) points, we might make it become a vector like [x,y,1]. 
 The last one will be the bias.  
 
 ii. Then it will do dot product with our w, which is a 3 by 1 vector here.  
