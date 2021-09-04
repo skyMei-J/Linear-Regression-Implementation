@@ -17,5 +17,9 @@ I implement the formula above with my handcrafted inverse function (used LU deco
 
 ![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.27.34.png)
 
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.27.42.png)
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.24.png)
 
 
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.16.png)
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.31.png)
