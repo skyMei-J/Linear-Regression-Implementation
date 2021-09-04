@@ -1,6 +1,7 @@
+# Implement Linear Regression and Logistic Regression algorithms.
 # Linear-Regression-Implementation with handcrafted inverse (using LU decompositino)
 
-Implement Linear Regression and Logistic Regression algorithms.
+I implement the formula above with my handcrafted inverse function (used LU decomposition) to find the inverse matrix and plot the result including points and the fitting line.
 
 find the best fitting line on the data with the matrix operations which are written by myself.
 ## Input Parameter
@@ -9,11 +10,15 @@ find the best fitting line on the data with the matrix operations which are writ
 ### (b) The number of polynomial bases n:
 For example, if the number of polynomial bases is 3, then we are going to find
 the curve that fits the data points by ax2 + bx1 + cx0 = y
+## Result of Linear Regression:
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.16.png)
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.31.png)
 
-
-I implement the formula above with my handcrafted inverse function (used LU decomposition) to find the inverse matrix and plot the result including points and the fitting line.
+below is the reference for inverse matrix
 ### Inverse Matrix:
 ![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.27.07.png)
+
+
 # Logistic Regression Implementation (handcrafted)
 Both L2-norm and cross entropy will do gradient descent to find the optimal result
 Below is the reference function
@@ -37,6 +42,8 @@ function’s result is given.
 
 iv. Until your loss smaller than your threshold, you get the w.  
 
-
-![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.16.png)
-![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.28.31.png)
+## Result of Logistic regression
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.39.28.png)
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.39.38.png)
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.39.55.png)
+![image](https://github.com/skyMei-J/Image/blob/main/linear%20regression/截圖%202021-09-04%20下午5.40.01.png)
